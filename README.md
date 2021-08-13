@@ -1,0 +1,2 @@
+# SchoolHateSpeachBot
+Detection hate speach
